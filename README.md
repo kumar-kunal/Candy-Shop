@@ -1,0 +1,3 @@
+# Candy-Shop
+A simple project in c++
+project in progress...
